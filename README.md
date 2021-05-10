@@ -1,3 +1,3 @@
-this is first readme for new git repo
+### This is the repo for time series course in episode
 
-second sentence is Yan
+ - Episode 1: W
